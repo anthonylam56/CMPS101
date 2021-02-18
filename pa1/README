@@ -1,0 +1,20 @@
+Anthony Lam
+alam26@ucsc.edu
+
+Filed submitted:
+
+MakeFile
+creates executable jar file, unmodified.
+
+Lex.java
+sorts and build Lists, given an input list and outputs sorted list.
+
+List.java
+doubly-linked linked List ADT
+
+ListClient.java
+List tester, unmodified.
+
+README
+this file, brief description of files of this program
+

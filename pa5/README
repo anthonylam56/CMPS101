@@ -1,0 +1,29 @@
+Anthony Lam
+alam26@ucsc.edu
+
+Filed submitted:
+
+List.c
+doubly-linked linked List ADT
+
+List.h
+header file for List.c
+
+Graph.c
+Graph ADT using a graph as an array of Lists with DFS
+
+Graph.h
+header file for Graph.c with DFS
+
+GraphTester.c
+graph tester for Graph.c
+
+FindComponents.c
+Finds SCC's within graph.
+
+MakeFile
+creates executable file, unmodified.
+
+README
+this file, brief description of files of this program
+
